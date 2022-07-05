@@ -1,9 +1,9 @@
 <?php
 
 $db_host = 'localhost';
-$db_user = 'rakuji';
-$db_pass = 'rakuji';
-$db_name = 'rakuji';
+$db_user = 'root';
+$db_pass = 'password';
+$db_name = 'project_rakuji';
 
 $dsn = "mysql:host={$db_host};dbname={$db_name};charset=utf8";
 
